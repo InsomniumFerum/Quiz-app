@@ -1,0 +1,73 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Akaya Telivigala", cursive;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: white;
+}
+
+.container {
+  width: 50vw;
+  border-radius: 5px;
+  background-color: #80deea;
+  padding: 10px;
+  box-shadow: 0 1rem 1rem -0.7rem rgba(0, 0, 0, 0.26);
+}
+
+.header {
+  font-size: 1.5rem;
+  font-weight: 500;
+  margin: 0.3rem;
+  color: #5a6ac3be;
+}
+
+hr {
+  margin: 1rem;
+}
+
+.card-title {
+  font-size: 1.3rem;
+  font-weight: 400;
+}
+
+#buttons {
+  display: flex;
+  justify-content: center;
+}
+
+.btn {
+  width: 300px;
+  height: 50px;
+  border: none;
+  margin: 0 0.5rem 0.5rem;
+  padding: 0.4rem;
+  color: white;
+  background-color: #448f99ab;
+  border-radius: 4px;
+  box-shadow: inset 0 0 0 0 rgb(74, 185, 152);
+  transition: ease-out 0.3s;
+  outline: none;
+}
+
+.btn:hover {
+  cursor: pointer;
+  box-shadow: inset 300px 0 0 0 rgb(23, 119, 74);
+  color: black;
+  transform: scale(1);
+}
+
+span {
+  font-size: 1rem;
+  font-weight: 300;
+}
