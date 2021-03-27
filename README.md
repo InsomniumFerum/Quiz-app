@@ -43,24 +43,25 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="images/project.png" width="1200">
+<img src="images/project.png" width="1000">
 
 #### JavaScript Used
 
 * DOM Manipulation
-* Control Structures
-* HTML Audio API
 * JavaScript CSS Manipulation
+* Css Animations
 * addEventListener
-#### Project Description/Summary
-The point of this project is to have each key, when pressed, make a corresponding drum noise. It also uses CSS transitions and animations to make the project more interactive to the user. I completed this project earlier in my JavaScript learning phase. I found it quite confusing because I had never used the HTML audio API or the selection of DOM elements using the date-key attribute.
 
-#### New Things Learned or Refreshed
-This project involved the use a “data-key” attribute that I'd never seen before. The “data-key” attribute was then selected using the CSS selector[attribute] method. I found this interesting as this was the first time I had saw this done. I also learned how to associate an audio file with the audio API.
+Created using JavaScript with the following features:
 
+- A simple quiz with radio button choices, that shows the quiz taker their score upon completion.
+- The quiz can show any number of questions but only four choices.
+- Tally the user’s score and display the final score on the last page. The last page will only show the score.
+- Use an array to store all the questions. Each question, along with its choices and correct answer, should be stored in an object.
+- Dynamically remove the current question and go to the next question, when the user clicks the “Next” button.
+- A “Back” button that allows the user to go to the previous question and change their answer. The user can go back up to the first question.
+- 
 ### Built With
-
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [Javascipt](https://www.javascript.com/)
 * [HTML](https://html.com/)
 * [CSS](https://css.com/)
@@ -70,7 +71,7 @@ This section should list any major frameworks that you built your project using.
 
 Furkan Çat - [@FurkanCat](https://twitter.com/FurkanCat) - furi544@gmail.com
 
-Project Link: [Project Link](https://github.com/InsomniumFerum/Drum-Kit)
+Project Link: [Project Link](https://github.com/InsomniumFerum/Quiz-app)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
