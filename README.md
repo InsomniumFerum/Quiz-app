@@ -43,7 +43,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="images/project.png" width="800">
+<img src="images/project.png" width="1200">
 
 #### JavaScript Used
 
