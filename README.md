@@ -60,7 +60,8 @@ Created using JavaScript with the following features:
 - Use an array to store all the questions. Each question, along with its choices and correct answer, should be stored in an object.
 - Dynamically remove the current question and go to the next question, when the user clicks the “Next” button.
 - A “Back” button that allows the user to go to the previous question and change their answer. The user can go back up to the first question.
-- 
+
+
 ### Built With
 * [Javascipt](https://www.javascript.com/)
 * [HTML](https://html.com/)
