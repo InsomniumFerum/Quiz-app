@@ -43,7 +43,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="images/project.png" width="1000">
+[Project-Demo](https://trusting-babbage-6a621e.netlify.app/)
+
+<img src="images/project.png" width="600">
 
 #### JavaScript Used
 
